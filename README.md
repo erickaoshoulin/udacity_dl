@@ -12,4 +12,4 @@ https://github.com/erickaoshoulin/udacity_dl/tree/master/tv-script-generation
 * language-translation:
 https://github.com/erickaoshoulin/udacity_dl/tree/master/language-translation
 * face generation:
-https://github.com/erickaoshoulin/udacity_dl/tree/master/face_generationk
+https://github.com/erickaoshoulin/udacity_dl/tree/master/face_generation
